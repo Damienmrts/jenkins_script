@@ -1,3 +1,3 @@
 <?php 
-    print("oui bonjour c'est nous")
+    print("oui")
 ?>
